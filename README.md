@@ -1,0 +1,2 @@
+# vpnconfig
+Konfigurasi untuk VPN
